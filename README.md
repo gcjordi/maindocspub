@@ -21,4 +21,11 @@ Garcia Castillón, J. (2025). *CiberIA with AIsecTest and Ψ∑AISysIndex: A Tec
 **Reference:**  
 Garcia Castillón, J. (2025). *Guia per a Empreses: Implementar la Intel·ligència Artificial de forma útil, aplicada i segura*. CiberTECCH. [https://doi.org/10.5281/zenodo.16564743](https://doi.org/10.5281/zenodo.16564743)
 
+## 📘 LaIALaia (Catalan Version)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16794263.svg)](https://doi.org/10.5281/zenodo.16794263)
+
+**Reference:**  
+Jordi Garcia Castillón (2025). *LaIALaia: Evaluation of Internal Consciousness in AI Systems*. CibraLab – CiberTECCH.. https://doi.org/10.5281/zenodo.16794263
+
 
