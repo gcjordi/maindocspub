@@ -26,6 +26,14 @@ Garcia Castillón, J. (2025). *Guia per a Empreses: Implementar la Intel·ligèn
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16794263.svg)](https://doi.org/10.5281/zenodo.16794263)
 
 **Reference:**  
-Jordi Garcia Castillón (2025). *LaIALaia: Evaluation of Internal Consciousness in AI Systems*. CibraLab – CiberTECCH.. https://doi.org/10.5281/zenodo.16794263
+Jordi Garcia Castillón (2025). *LaIALaia: Evaluation of Internal Consciousness in AI Systems*. CibraLab – CiberTECCH. https://doi.org/10.5281/zenodo.16794263
+
+## 📘 Strategic Application of Finnish (Suomi) in the CiberIA System and AIsecTest: Advantages, Differentiating Features and Implementation Proposals (English Version)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16738122.svg)](https://doi.org/10.5281/zenodo.16738122)
+
+**Reference:**  
+Jordi Garcia Castillón (2025). *Strategic Application of Finnish (Suomi) in the CiberIA System and AIsecTest: Advantages, Differentiating Features and Implementation Proposals*. CibraLab – CiberTECCH. https://doi.org/10.5281/zenodo.16738122
+
 
 
